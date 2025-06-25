@@ -2,6 +2,10 @@
 I'm passionate about web development, focused on building useful, efficient, and impactful applications. I'm always learning, exploring new technologies, and improving my skills as a developer.<br><br>
 🎓 Computer Science @ Universidad de los Andes
 
+In my free time, I enjoy playing video games, collecting and playing the One Piece TCG, and exploring everything related to technology, anime, and pop culture.
+
+(Yes, I love One Piece 🏴‍☠️)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juan-david-orduz-pinilla-22b739350/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:orduzjd@outlook.com) 
