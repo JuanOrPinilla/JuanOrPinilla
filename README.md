@@ -1,6 +1,7 @@
 # About Me:
 I'm passionate about web development, focused on building useful, efficient, and impactful applications. I'm always learning, exploring new technologies, and improving my skills as a developer.<br><br>
 🎓 Computer Science @ Universidad de los Andes
+💻 Fullstack Developer Jr @ Logica GHL
 
 In my free time, I enjoy playing video games, collecting and playing the One Piece TCG, and exploring everything related to technology, anime, and pop culture.
 
