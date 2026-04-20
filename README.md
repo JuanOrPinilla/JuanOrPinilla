@@ -4,10 +4,6 @@ I'm passionate about web development, focused on building useful, efficient, and
 
 💻 Fullstack Developer Jr @ Logica GHL
 
-In my free time, I enjoy playing video games, collecting and playing TCG, and exploring everything related to technology, anime, and pop culture.
-
-(Yes, I love One Piece 🏴‍☠️)
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juan-david-orduz-pinilla-22b739350/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:orduzjd@outlook.com) 
